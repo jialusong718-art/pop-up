@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Indigo denim table runner with handmade stitching, ceramic plate and natural linen">
+ <defs>
+  <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#d2c6b1"/><stop offset="1" stop-color="#a99d89"/></linearGradient>
+  <linearGradient id="denim" x2=".9" y2="1"><stop stop-color="#173d5b"/><stop offset=".48" stop-color="#285a78"/><stop offset="1" stop-color="#102f49"/></linearGradient>
+  <linearGradient id="linen" x2="1" y2="1"><stop stop-color="#eee7d8"/><stop offset="1" stop-color="#cfc5b1"/></linearGradient>
+  <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.5"><feDropShadow dx="0" dy="14" stdDeviation="15" flood-color="#302a22" flood-opacity=".24"/></filter>
+  <pattern id="weave" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 2h12M0 8h12" stroke="#ffffff" stroke-opacity=".1" stroke-width="1"/><path d="M3 0v12M9 0v12" stroke="#001b30" stroke-opacity=".15" stroke-width="1"/></pattern>
+ </defs>
+ <rect width="1200" height="900" fill="url(#bg)"/><path d="M0 130h1200v770H0z" fill="#b6a992"/><path d="M0 660 1200 480v420H0z" fill="#a3947e" opacity=".6"/>
+ <path d="M95 90h1010l72 150H25z" fill="#f3ede1" opacity=".65"/>
+ <g filter="url(#shadow)">
+  <path d="M190 90 466 60l415 772-269 26z" fill="url(#denim)"/><path d="M190 90 466 60l415 772-269 26z" fill="url(#weave)"/>
+  <path d="m218 108 233-24 389 728-224 20z" fill="none" stroke="#d5b477" stroke-width="5" stroke-dasharray="2 14"/>
+  <path d="M250 180 456 161M298 270l208-19M346 365l207-20M397 462l205-20M446 560l205-21M497 660l203-20" stroke="#9eb4ba" stroke-opacity=".45" stroke-width="3"/>
+  <path d="m522 119 117-14 366 703-117 12z" fill="url(#linen)"/><path d="m522 119 117-14 366 703-117 12z" fill="url(#weave)" opacity=".65"/>
+  <ellipse cx="693" cy="256" rx="178" ry="142" transform="rotate(12 693 256)" fill="#ede8dc" stroke="#d2c9b8" stroke-width="8"/>
+  <ellipse cx="693" cy="256" rx="130" ry="102" transform="rotate(12 693 256)" fill="#f8f5ed" stroke="#d8d0c1" stroke-width="3"/>
+  <ellipse cx="693" cy="256" rx="96" ry="73" transform="rotate(12 693 256)" fill="#e9e3d5"/>
+  <path d="M645 221q48 30 96 4M638 249q57 33 114 2" fill="none" stroke="#c0ad89" stroke-width="3" opacity=".65"/>
+  <path d="M889 352q35-47 75-1l30 89q4 36-29 41l-68-8q-31-8-24-37z" fill="#8c9a7b" stroke="#718168" stroke-width="7"/>
+  <path d="M861 421q60 18 137-3l14 37q-62 33-139 7z" fill="url(#denim)" stroke="#d4b36e" stroke-width="4" stroke-dasharray="3 10"/>
+  <circle cx="328" cy="726" r="19" fill="#d8c69f"/><circle cx="328" cy="726" r="7" fill="#4d554e"/><circle cx="371" cy="754" r="13" fill="#d8c69f"/><circle cx="371" cy="754" r="5" fill="#4d554e"/>
+ </g>
+ <text x="66" y="832" font-family="Georgia,serif" font-size="22" fill="#f2ece0" letter-spacing="4">REMADE DENIM · SHARED RITUALS</text>
+</svg>

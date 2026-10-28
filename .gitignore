@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.npm-cache/
+.vercel/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+*.log
+.DS_Store
+work/
+outputs/
